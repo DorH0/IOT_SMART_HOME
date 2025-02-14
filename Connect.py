@@ -1,7 +1,7 @@
 # IoT Project
 # Connect Button
 
-# connect_button_script.py
+# connect_button
 import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import *
